@@ -6,7 +6,7 @@ v1.1.0
 
 ### install
 ```
-# git clone https://git.coding.net/aptni/PHPloyDeployer.git
+# git clone https://github.com/xuanxing/PHPloyDeployer.git
 ```
 ### help!
 ```
