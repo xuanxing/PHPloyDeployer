@@ -1,4 +1,6 @@
 #! /bin/sh
+# v1.1.0
+
 # line format
 LR="\033[0m"
 cmdL=" ==\033[32m"
@@ -8,7 +10,7 @@ infoR="\033[0m"
 errL="\033[31m[error]"
 errR="\033[0m"
 
-echo "\033[32mPHPloyDeployer by hoshino. Powered by PHPloy\033[0m"
+echo "\033[32mPHPloyDeployer by hoshino. \033[34mVerision 1.1.0; \033[32mPowered by PHPloy\033[0m"
 
 # init env
 root=$(cd `dirname $0`; pwd)

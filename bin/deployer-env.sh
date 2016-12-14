@@ -1,4 +1,6 @@
 #! /bin/sh
+# v1.1.0
+
 # line format
 LR="\033[0m"
 cmdL=" ==\033[32m"
