@@ -5,6 +5,11 @@
 ### Prepare
 * `cd` to your project directory
 * make sure git repository existed in your project directory
+* add followings to your `.gitignore`
+```
+/PHPloyDeployer/
+/phploy*
+```
 
 ### install
 ```
